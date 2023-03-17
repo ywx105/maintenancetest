@@ -1,0 +1,12 @@
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\maintenancetest.exe
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\maintenancetest.dll
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\maintenancetest.deps.json
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\maintenancetest.runtimeconfig.json
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\maintenancetest.pdb
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZCWENXYU\source\repos\maintenancetest\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
